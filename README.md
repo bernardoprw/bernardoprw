@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bernardo
 
-Full Stack Developer building SaaS products.
+Full Stack Developer | Creator of MenuZero
 
 ## 🚀 Main Project
 

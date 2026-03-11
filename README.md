@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Bernardo
 
-<!--
-**bernardoprw/bernardoprw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer building SaaS products.
 
-Here are some ideas to get you started:
+## 🚀 Main Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MenuZero
+Restaurant SaaS platform for digital menus and order management.
+
+🌐 https://menuzero.app
+
+## 🛠 Tech Stack
+
+- React
+- JavaScript
+- Firebase
+- Firestore
+- REST APIs
+- Git
+
+## 📚 Currently learning
+
+- Software architecture
+- Scalable SaaS systems
+- API integrations
